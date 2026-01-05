@@ -1,0 +1,5 @@
+sync.py
+/build
+/dist
+__pycache__
+antigravitySync.spec
